@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VJ Harshini Sree - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        header h1 {
+            margin-bottom: 10px;
+            font-size: 2.5em;
+            color: #333;
+        }
+        
+        header p {
+            margin: 5px 0;
+            font-size: 1.2em;
+        }
+        
+        .section {
+            margin: 20px 0;
+        }
+        
+        .section h2 {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        
+        .section p,
+        .section ul {
+            margin-left: 20px;
+        }
+        
+        .section ul {
+            list-style-type: square;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        
+        table th,
+        table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        
+        table th {
+            background-color: #333;
+            color: #fff;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 1em;
+        }
+        
+    </style>
+    <div class="container">
+        <header>
+            <h1>VJ Harshini Sree</h1>
+            <p>B.Tech in Artificial Intelligence and Data Science</p>
+            <p>Mepco Schlenk Engineering College, Sivakasi</p>
+            <p><a href="mailto:harshinisreesr@gmail.com">harshinisreesr@gmail.com</a> | +91 9894474549</p>
+            <p>Trichy - 620023</p>
+        </header>
+
+        <section class="section">
+            <h2>Aim and Objective</h2>
+            <p>I am an aspiring professional with a keen desire to excel and win, seeking an opportunity to bring my dedication and perseverance to a forward-thinking organization, driving continuous improvement and exceptional outcomes.</p>
+        </section>
+
+        <section class="section">
+            <h2>Educational Qualification</h2>
+            <table>
+                <tr>
+                    <th>Year</th>
+                    <th>Degree</th>
+                    <th>Institute</th>
+                    <th>CGPA/Percentage</th>
+                </tr>
+                <tr>
+                    <td>2024</td>
+                    <td>B.Tech in Artificial Intelligence and Data Science</td>
+                    <td>Mepco Schlenk Engineering College</td>
+                    <td>7.7 CGPA</td>
+                </tr>
+                <tr>
+                    <td>2020</td>
+                    <td>Higher Secondary Certificate (HSC)</td>
+                    <td>Alpha Wisdom Vidyashram Higher Secondary School</td>
+                    <td>90.2%</td>
+                </tr>
+                <tr>
+                    <td>2018</td>
+                    <td>Secondary School Certificate (SSC)</td>
+                    <td>Alpha Wisdom Vidyashram Higher Secondary School</td>
+                    <td>79%</td>
+                </tr>
+            </table>
+        </section>
+
+        <section class="section">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Programming Languages: Python, Java, C++, C</li>
+                <li>Data Analysis: R, SQL, No SQL</li>
+                <li>Machine Learning: Scikit-Learn</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Extra-Curricular Activities</h2>
+            <ul>
+                <li>Member of the college Blue Sky Club and Club Office Bearer</li>
+                <li>Active basketball and throw ball player</li>
+                <li>Member of Google and Robotics Club</li>
+                <li>Diploma in Yoga</li>
+                <li>Expertise in public speaking</li>
+                <li>Participated in inter-school dance competition</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Co-Curricular Activities</h2>
+            <ul>
+                <li>Participated in a technical paper presentation event called “Prabhigyan 24” at Prathyusha Engineering College, Chennai</li>
+                <li>Volunteered for Gyan Mitra representing Blue Sky Club</li>
+                <li>Worked on Amrita virtual lab in Material Science and Data Structures</li>
+                <li>Participated in symposiums “Cloud Computing using IoT” and “Raspberry Pi and Python” at IIT Madras</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Courses Completed</h2>
+            <ul>
+                <li>NPTEL: Python, Java</li>
+                <li>IEEE Course</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Mini Projects</h2>
+            <ul>
+                <li>Python-DBMS integrated Project on Marine Management System</li>
+                <li>Data Structures project on Restaurant Billing System</li>
+                <li>Operating System project on Thread Pool Implementation</li>
+                <li>Data Analytics project on Electricity Prediction</li>
+                <li>Artificial Intelligence project on Wumpus World: Navigate the Maze</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Awards and Achievements</h2>
+            <ul>
+                <li>Participated in mini-marathon 2023</li>
+                <li>Secured General Proficiency throughout schooling</li>
+                <li>Runner-up in a debate competition at school</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Personal Details</h2>
+            <ul>
+                <li>Father's Name: T. Venkatraman</li>
+                <li>Mother's Name: T. Jaya Chitra</li>
+                <li>Gender: Female</li>
+                <li>Date of Birth: 07/10/2004</li>
+                <li>Marital Status: Unmarried</li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>I hereby declare that all the information provided above is true to the best of my knowledge and belief.</p>
+        </footer>
+    </div>
+</body>
+</html>
